@@ -1,16 +1,30 @@
-              ### HOLA SOY, ROBERTO BARRERA 👋
 
-<!--
-**RobertoBarreraH/RobertoBarreraH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="es">
+<body>
+  <div class="container">
+    <h1 align="center">HOLA SOY,<a href="http://www.linkedin.com/in/roberto-barrera-hidalgo-a53238253" target="_blank">ROBERTO BARRERA 👋</a></h1>
+    <ul>
+      <li>
+        <strong>👨‍💻 Desarrollador NoCode y Desarrollador de Aplicaciones Web:</strong> Experiencia en diseño y desarrollo de soluciones digitales innovadoras.
+      </li>
+      <li>
+        <strong>💾 Manejo de Bases de Datos y SQL:</strong> Especializado en diseño, implementación y optimización de bases de datos.
+      </li>
+      <li>
+        <strong>🌐 Diseño de Páginas Web:</strong> Creación de experiencias web atractivas y funcionales.
+      </li>
+      <li>
+        <strong>📊 Analista de Datos:</strong> Habilidades en análisis, interpretación y visualización de datos.
+      </li>
+      <li>
+        <strong>🛠️ Herramientas:</strong> Excel, Power BI, Pentaho.
+      </li>
+      <li>
+        <strong>🌍 Nivel de Inglés B2:</strong> Certificado por TOEIC, habilidades sólidas en comunicación oral y escrita.
+      </li>
+    </ul>
+    <p>¡Listo para impulsar proyectos innovadores y contribuir al éxito de tu equipo!</p>
+  </div>
+</body>
+</html>
