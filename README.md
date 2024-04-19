@@ -3,7 +3,7 @@
 <html lang="es">
 <body>
   <div class="container">
-    <h1 align="center">HOLA SOY,<a href="http://www.linkedin.com/in/roberto-barrera-hidalgo-a53238253" target="_blank">ROBERTO BARRERA 👋</a></h1>
+    <h1 align="center">HOLA SOY,<a href="http://www.linkedin.com/in/roberto-barrera-hidalgo-a53238253" target="_blank" rel="noopener noreferrer">ROBERTO BARRERA 👋</a></h1>
     <ul>
       <li>
         <strong>👨‍💻 Desarrollador NoCode y Desarrollador de Aplicaciones Web:</strong> Experiencia en diseño y desarrollo de soluciones digitales innovadoras.
