@@ -25,6 +25,16 @@
       </li>
     </ul>
     <p>¡Listo para impulsar proyectos innovadores y contribuir al éxito de tu equipo!</p>
+    <h2>Mi Portafolio</h2>
+    <h3>NoCode</h3>
+    <ul>
+      <li>
+        <strong>Proyecto Escolar ERP NoCode:</strong> Desarrollo de un sistema ERP (Enterprise Resource Planning) utilizando herramientas NoCode. [Enlace al proyecto](https://erp-68419.bubbleapps.io/version-test/?debug_mode=true)
+      </li>
+    </ul>
+    <h3>Data Analyst</h3>
+    <!-- Aquí puedes añadir más proyectos bajo la categoría "Data Analyst" -->
+
   </div>
 </body>
 </html>
