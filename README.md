@@ -34,7 +34,12 @@
     </ul>
     <ul>
       <li>
-        <strong>Demo de Proyecto NoCode Sistema de plazas para Central de Abastos Tijuana, Baja California:</strong> Desarrollo de un demo para la presentación del proyecto de registro de plazas, utilizando herramientas Nocode. [Enlace al proyecto] <img src="E:\Descargas\Plazas.jpg">
+        <strong>Demo de Proyecto NoCode Sistema de plazas para Central de Abastos Tijuana, Baja California:</strong> Desarrollo de un demo para la presentación del proyecto de registro de plazas, utilizando herramientas Nocode, Además de una implementación con mercadopago.   <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Plazas.jpg" width="250" height="150"> <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Plaza%20ocupada.jpg" width="250" height="150"> <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Implementación%20de%20MercadoPago.jpg" width="250" height="150">
+      </li>
+    </ul>
+        <ul>
+      <li>
+        <strong>Proyecto NoCode Sistema Escolar para una Universidad en Tijuana, Baja California:</strong> Desarrollo de aplicación estudiantil incluyendo cursos, cuestionarios, anuncios,etc. Utilizando herramientas Nocode. <br> <img src="https://github.com/RobertoBarreraH/RobertoBarreraH/assets/167491612/a58c0edd-3ff6-4ba4-8597-07aef3c8fa19" width="300" height="150"> <img src="https://github.com/RobertoBarreraH/PROYECTOS/blob/main/curso.jpg" width="300" height="150"> 
       </li>
     </ul>
     <h3>Data Analyst</h3>
