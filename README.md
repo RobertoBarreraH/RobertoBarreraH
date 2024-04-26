@@ -34,7 +34,7 @@
     </ul>
     <ul>
       <li>
-        <strong>Demo de Proyecto NoCode Sistema de plazas para Central de Abastos Tijuana, Baja California:</strong> Desarrollo de un demo para la presentación del proyecto de registro de plazas, utilizando herramientas Nocode, Además de una implementación con mercadopago.   <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Plazas.jpg" width="250" height="150"> <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Plaza%20ocupada.jpg" width="250" height="150"> <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Implementación%20de%20MercadoPago.jpg" width="250" height="150">
+        <strong>Demo de Proyecto NoCode Sistema de plazas para Central de Abastos Tijuana, Baja California:</strong> Desarrollo de un demo para la presentación del proyecto de registro de plazas, utilizando herramientas Nocode, Además de una implementación con mercadopago. <br>   <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Plazas.jpg" width="250" height="150"> <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Plaza%20ocupada.jpg" width="250" height="150"> <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Implementación%20de%20MercadoPago.jpg" width="250" height="150">
       </li>
     </ul>
         <ul>
