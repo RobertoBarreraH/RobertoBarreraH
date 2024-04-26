@@ -21,11 +21,12 @@
         <strong>🛠️ Herramientas:</strong> Excel, Power BI, Pentaho.
       </li>
       <li>
-        <strong>🌍 Nivel de Inglés B2:</strong> Certificado por TOEIC, habilidades sólidas en comunicación oral y escrita.
+        <strong>🌍 Nivel de Inglés:</strong> Certificado por TOEIC, habilidades sólidas en comunicación oral y escrita.
       </li>
     </ul>
-    <p>¡Listo para impulsar proyectos innovadores y contribuir al éxito de tu equipo!</p>
+    <p>¡Listo para impulsar proyectos innovadores y contribuir al éxito de tu empresa!</p>
     <h2>Mi Portafolio</h2>
+    <h4>Dar clic en las imagenes para su vista ampliada</h4>
     <h3>Nocode</h3>
     <ul>
       <li>
@@ -34,7 +35,7 @@
     </ul>
     <ul>
       <li>
-        <strong>Demo de Proyecto NoCode Sistema de plazas para Central de Abastos Tijuana, Baja California:</strong> Desarrollo de un demo para la presentación del proyecto de registro de plazas, utilizando herramientas Nocode, Además de una implementación con mercadopago. <br>   <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Plazas.jpg" width="250" height="150"> <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Plaza%20ocupada.jpg" width="250" height="150"> <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Implementación%20de%20MercadoPago.jpg" width="250" height="150">
+        <strong>Demo de Proyecto NoCode Sistema de plazas para Central de Abastos Tijuana, Baja California:</strong> Desarrollo de un demo para la presentación del proyecto de registro de plazas, utilizando herramientas Nocode, Además de una implementación con mercadopago. <br>   <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Plazas.jpg" width="300" height="150"> <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Plaza%20ocupada.jpg" width="300" height="150"> <img src="https://github.com/RobertoBarreraH/PLAZAS/blob/main/Implementación%20de%20MercadoPago.jpg" width="300" height="150">
       </li>
     </ul>
         <ul>
@@ -43,7 +44,11 @@
       </li>
     </ul>
     <h3>Data Analyst</h3>
-    <!-- Aquí puedes añadir más proyectos bajo la categoría "Data Analyst" -->
+     <ul>
+      <li>
+        <strong>Proyecto Data analyst de 3 reportes, ventas, compras, inventarios.:</strong> Desarrollo de los 3 reportes antes mencionados. Utilizando herramientas como Excel y Power BI.    (ventas) <br><img src="https://github.com/RobertoBarreraH/PROYECTOS/blob/main/inicio.jpg" width="300" height="150"> <img src="https://github.com/RobertoBarreraH/PROYECTOS/blob/main/menu.jpg" width="300" height="150"> <img src="https://github.com/RobertoBarreraH/PROYECTOS/blob/main/familias.jpg" width="300" height="150"> 
+      </li>
+    </ul>
 
   </div>
 </body>
