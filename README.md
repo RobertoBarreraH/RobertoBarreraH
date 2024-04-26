@@ -26,10 +26,15 @@
     </ul>
     <p>¡Listo para impulsar proyectos innovadores y contribuir al éxito de tu equipo!</p>
     <h2>Mi Portafolio</h2>
-    <h3>NoCode</h3>
+    <h3>Nocode</h3>
     <ul>
       <li>
         <strong>Proyecto Escolar ERP NoCode:</strong> Desarrollo de un sistema ERP (Enterprise Resource Planning) utilizando herramientas NoCode. [Enlace al proyecto](https://erp-68419.bubbleapps.io/version-test/?debug_mode=true)
+      </li>
+    </ul>
+    <ul>
+      <li>
+        <strong>Demo de Proyecto NoCode Sistema de plazas para Central de Abastos Tijuana, Baja California:</strong> Desarrollo de un demo para la presentación del proyecto de registro de plazas, utilizando herramientas Nocode. [Enlace al proyecto] <img src="E:\Descargas\Plazas.jpg">
       </li>
     </ul>
     <h3>Data Analyst</h3>
